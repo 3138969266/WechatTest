@@ -45,9 +45,9 @@ except ImportError:
 
 # 邮箱配置
 EMAIL_CONFIG = {
-    'sender_email': 'your_email@qq.com',
-    'sender_password': 'your_authorization_code',
-    'receiver_email': 'receiver@example.com',
+    'sender_email': '3138969266@qq.com',
+    'sender_password': 'ovyktydfyoivdcci',
+    'receiver_email': '3138969266@qq.com',
     'smtp_server': 'smtp.qq.com',
     'smtp_port': 465,
     'use_ssl': True,
