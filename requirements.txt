@@ -1,0 +1,12 @@
+# 微信消息监控所需依赖
+# 安装命令: pip install -r requirements.txt
+
+# Windows UI自动化库 - 用于操作微信PC客户端
+uiautomation>=2.0.0
+
+# Windows API库 - 用于窗口操作
+pywin32>=300
+
+# 可选：如果你想使用更高级的图像处理功能
+# pillow>=9.0.0
+# opencv-python>=4.5.0
